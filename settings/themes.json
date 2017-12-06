@@ -33,10 +33,6 @@
     "captionTop": 60,
     "captionRight": 1280,
     "captionLeft": 720,
-    "backgroundImage": "photo.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
   },
   "Bars": {
     "pattern": "bars",
@@ -65,9 +61,6 @@
     "backgroundColor": "#8771aa",
     "foregroundColor": "#fff",
     "pattern": "bricks"
-    "backgroundImage": "photo.jpg",
-    "width": 1280,
-    "height": 720
   },
   "Equalizer on the bottom": {
     "backgroundColor": "#222",
@@ -103,6 +96,6 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+    "backgroundImage": "photo.jpg"
   }
 }
