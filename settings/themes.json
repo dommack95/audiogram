@@ -65,6 +65,9 @@
     "backgroundColor": "#8771aa",
     "foregroundColor": "#fff",
     "pattern": "bricks"
+    "backgroundImage": "photo.jpg",
+    "width": 1280,
+    "height": 720
   },
   "Equalizer on the bottom": {
     "backgroundColor": "#222",
