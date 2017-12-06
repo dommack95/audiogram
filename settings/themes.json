@@ -31,9 +31,9 @@
   "Background image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
+    "captionRight": 1280,
+    "captionLeft": 720,
+    "backgroundImage": "photo.jpg",
     "foregroundColor": "#fc0",
     "waveBottom": 660,
     "waveTop": 320
