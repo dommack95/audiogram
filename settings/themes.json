@@ -101,5 +101,13 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "photo.png"
+  },
+  "my theme": {
+    "width": 1280,
+    "height": 720,
+    "backgroundImage": "photo1.jpg",
+    "backgroundColor": "#8771aa",
+    "foregroundColor": "#fff",
+    "pattern": "bricks"
   }
 }
